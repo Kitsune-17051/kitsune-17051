@@ -6,7 +6,7 @@ I'm a **Web Developer** who loves creating smooth user experiences and robust ba
 
 ### 🚀 What I'm up to:
 - 💻 Currently working on E-commerce Website
-- 🧠 Learning ReactJS, Java, Data Structures
+- 🧠 Learning Java, Data Structures
 - 💬 Ask me about Frontend, Backend, or UI/UX
 - 📫 Reach me at: mdshahzad17051@gmail.com
 
@@ -16,9 +16,15 @@ I'm a **Web Developer** who loves creating smooth user experiences and robust ba
 | HTML5, CSS3, JavaScript | Node.js, Express | Git, Docker |
 | React, Tailwind CSS | PostgreSQL, MongoDB | VS Code, Postman |
 
-### 📊 GitHub Stats:
-
+### 📊 kitsune-17051:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical)
 
 ---
 
-"The best way to predict the future is to invent it." – Alan Kay
+> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+> — Martin Fowler
+<p align="center">
+  <i>"Design is not just what it looks like and feels like. Design is how it works."</i> <br>
+  — <b>Steve Jobs</b>
+</p>
